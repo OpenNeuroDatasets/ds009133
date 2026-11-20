@@ -1,0 +1,10 @@
+{
+  "Name": "ZAP repeated-session resting EEG and TMS-evoked EEG",
+  "BIDSVersion": "1.11.2",
+  "DatasetType": "raw",
+  "Authors": [
+    "Joshua Rawsthorne",
+    "Tina Tang",
+    "Nahian Chowdhury"
+  ]
+}
