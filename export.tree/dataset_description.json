@@ -1,0 +1,12 @@
+{
+    "Name": "ZAP repeated-session resting EEG and TMS-evoked EEG",
+    "BIDSVersion": "1.11.2",
+    "DatasetType": "raw",
+    "Authors": [
+        "Joshua Rawsthorne",
+        "Tina Tang",
+        "Nahian Chowdhury"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds009133.v1.0.0",
+    "License": "CC0"
+}
