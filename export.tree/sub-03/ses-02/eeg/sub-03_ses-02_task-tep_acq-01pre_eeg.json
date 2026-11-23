@@ -1,0 +1,7 @@
+{
+  "TaskName": "tep",
+  "SamplingFrequency": 5000,
+  "PowerLineFrequency": 50,
+  "EEGReference": "n/a",
+  "SoftwareFilters": "n/a"
+}
